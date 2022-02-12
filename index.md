@@ -17,4 +17,4 @@ For my third project:
   
   I wanted to explore a Data Science project using Python and Jupyter Notebooks, so I found a CSV file online which consisted of real world data concering the games played in the NBA from the 2004-2021 seaons. I then used performed several data analytics techniques to visualize a few of the metrics in several graphs, as well as extracting other metrics and displaying to the screen. 
 
-<p align ="center">GitHub repository:<a href= "https://github.com/DanielDennington/CS-499"</a></p>
+<p align ="center">GitHub repository <a href= "https://github.com/DanielDennington/CS-499">https://github.com/DanielDennington/CS-499</a></p>
