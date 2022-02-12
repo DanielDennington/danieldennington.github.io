@@ -1,6 +1,6 @@
-# Hello and welcome to my ePortfolio!
+<p align ="center"># Hello and welcome to my ePortfolio!</p>
 
-## Here are the first couple of projects I'll use to showcase my compentency when it comes to Software Engineering
+<p>_________________________________________________________________________________________________________________________________________________</p>
 
 The first one is the released version for Windows64 of a simple game I made in UE4 utilizing both C++ and the Blueprint system. 
 
