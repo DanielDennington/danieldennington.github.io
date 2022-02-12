@@ -1,4 +1,4 @@
-<h1 align ="center">Hello and welcome to my ePortfolio!</h1>
+<h1 align ="center" margin-bottom = "12px">Hello and welcome to my ePortfolio!</h1>
 
 
 The first project is the packaged and released version for Windows-64bit of a simple game I made in UE4 utilizing both C++ and the Blueprint system. 
