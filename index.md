@@ -1,6 +1,5 @@
-<p align ="center">Hello and welcome to my ePortfolio!</p>
+<h1 align ="center">Hello and welcome to my ePortfolio!</h1>
 
-<p>_________________________________________________________________________________________________________________________________________________</p>
 
 The first project is the packaged and released version for Windows-64bit of a simple game I made in UE4 utilizing both C++ and the Blueprint system. 
 
