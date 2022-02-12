@@ -2,7 +2,7 @@
 
 <p>_________________________________________________________________________________________________________________________________________________</p>
 
-The first one is the released version for Windows64 of a simple game I made in UE4 utilizing both C++ and the Blueprint system. 
+The first project is the packaged and released version for Windows-64bit of a simple game I made in UE4 utilizing both C++ and the Blueprint system. 
 
 To explain my first project:
 
