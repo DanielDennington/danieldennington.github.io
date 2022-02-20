@@ -15,7 +15,7 @@
 <h1>Original Projects</h1>
 
 <h2 align = "center" margin-bottom = "12px">Original first project</h2>
-<p>This was a project I created using OpenGL and C++. At first I tried to make a kitchen knife but it turned out to be more like a Roman Gladius. This project isn't in a working condition due to how sensitive the development enviornment is for projects like these, but that is precisely why I chose to include this project. I wanted to showcase taking a non-functioning application like this one and modifying the idea of it into something else far more portable and enjoyable.</p>
+<p>This was a computer graphics project I created using OpenGL and C++. At first I tried to make a kitchen knife but it turned out to be more like a Roman Gladius. This project isn't in a working condition due to how sensitive the development enviornment is for projects like these, but that is precisely why I chose to include this project. I wanted to showcase taking a non-functioning application like this one and modifying the idea of it into something else far more portable and enjoyable.</p>
 
 <h3>Examples:</h3>
 <img src="/Images/Artifact One Images/Artifact One Original/BrokenProject.png" width="500px" height="400px">
@@ -39,7 +39,7 @@
 
 <h2 align = "center" margin-bottom = "12px">My first enhanced project</h2>
 
-<p>For my first artifact I wanted to create a simple game to better familiarize myself with both Python and PyGame. So I chose to recreate Space Invaders, a classic video game released in the late 80s. This is a rather simple rendition of the game, however it does feature most of major components of the game like the sprites, movement, a scoring system, and even audio.</p>
+<p>For my first artifact I wanted to create a simple game to continue on the computer generated graphics theme. I also though this was a great way to familiarize myself with both Python and PyGame. For this particular project, I chose to recreate Space Invaders. In case you didn't know, this is a classic video game released in the late 80s. This is a rather simple rendition of the game. However it does feature most of major components of the game like the sprites, player movement, collision detection, a scoring system, and even some audio.</p>
 
 <h3>Example:</h3>
 
@@ -55,7 +55,7 @@
 
 <h2 align = "center" margin-bottom = "12px">My third enhanced project</h2>
   
-<p>I wanted to explore a Data Science project using Python and Jupyter Notebooks, so I found a CSV file online which consisted of real world data concering the games played in the NBA from the 2004-2021 seaons. I then used performed several data analytics techniques to visualize a few of the metrics in several graphs, as well as extracting other metrics and displaying to the screen.</p>
+<p>I wanted to explore a Data Science project using Python and Jupyter Notebooks. So, I went and found a CSV file online which consisted of real world data points concering the games played in the NBA from the 2004-2021 seaons. I then performed several data analytical techniques to visualize a few of the metrics into several graphs, as well as extracting several specific metrics for further evaluation. To finish it all off I then displayed these metrics onto the screen.</p>
 
 <h3>Examples:</h3>
 <img src="/Images/Artifact Three Images/Artifact Three Enhanced/DataPrep.png" width="500px" height="400px">
