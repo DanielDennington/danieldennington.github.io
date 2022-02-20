@@ -3,7 +3,7 @@
 <h1>Code Reviews</h1>
 <p>This video is hosted on YouTube and can be accessed through the provided link:</p>
 
-<h2 align = "center"><a href="https://youtu.be/XwWzTvmWbVc">Code Reviews/Enhancement Walkthroughs</a></h2>
+<h2 align = "center"><a href="https://youtu.be/CP_VnQvvyOs">Code Reviews/Enhancement Walkthroughs</a></h2>
 
 <h1>Original Projects</h1>
 
