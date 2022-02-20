@@ -15,7 +15,7 @@
 <h1>Original Projects</h1>
 
 <h2 align = "center" margin-bottom = "12px">Original first project</h2>
-<p>This was a project I created using OpenGL and C++. At first I tried to make a kitchen knife but it turned out to be more like a Roman Gladius. This project isn't in a working condition due to how sensitive the development enviornment is for projects like these, but that is precisely why I chose to include this project. I wanted to showcase taking a non-functioning application like this one and modify the idea of it into something else far more portable and enjoyable.</p>
+<p>This was a project I created using OpenGL and C++. At first I tried to make a kitchen knife but it turned out to be more like a Roman Gladius. This project isn't in a working condition due to how sensitive the development enviornment is for projects like these, but that is precisely why I chose to include this project. I wanted to showcase taking a non-functioning application like this one and modifying the idea of it into something else far more portable and enjoyable.</p>
 
 <h3>Examples:</h3>
 <img src="/Images/Artifact One Images/Artifact One Original/BrokenProject.png" width="500px" height="400px">
