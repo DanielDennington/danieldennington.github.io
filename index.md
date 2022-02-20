@@ -16,20 +16,20 @@
 <h1>Original Projects</h1>
 
 <h2 align = "center">Original first project</h2>
-<p></p>
+<p>This was a project I created using OpenGL and C++. At first I tried to make a kitchen knife but it turned out to be more like a Roman Gladius. This project isn't in a working condition due to how sensitive the development enviornment is for projects like these, but that is precisely why I chose to include this project. I wanted to showcase taking a non-functioning application like this one and modify the idea of it into something else far more portable and enjoyable.</p>
 
 <h3>Examples:</h3>
 <img src="/Images/Artifact One Images/Artifact One Original/BrokenProject.png" width="500px" height="400px">
 
 <h2 align = "center">Original second project</h2>
-<p></p>
+<p>This is an implementation of a CSV file parser and Binary Search Tree implemented with C++. The overall project mimics an auctioning system with almost 18,000 rows and utilizes the BST to quickly manipulate the data stored in the CSV file</p>
 
 <h3>Examples:</h3>
 <img src="/Images/Artifact Two Images/Artifact Two Original/AuctionCSV.png" width="500px" height="400px">
 <img src="/Images/Artifact Two Images/Artifact Two Original/BSTImplementation.png" width="500px" height="400px">
 
 <h2 align = "center">Original third project</h2>
-<p></p>
+<p>Here is a Jupyter Notebook that covers various Data Anaylsis methods to comb through datasets. This was a very tightly-guided project that didn't really allow for much free input on my end. It also didn't implement cleaning any part of the datasets, a common phase that is typically in every a Data Science project.</p>
 
 <h3>Examples:</h3>
 <img src="/Images/Artifact Three Images/Artifact Three Original/DataPrep_Original.png" width="500px" height="400px">
