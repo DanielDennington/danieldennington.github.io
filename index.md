@@ -17,11 +17,23 @@
 <h2 align = "center">Original first project</h2>
 <p></p>
 
+<h3>Examples:</h3>
+<img src="/Images/Artifact One Images/Artifact One Original/BrokenProject.png" width="500px" height="400px">
+
 <h2 align = "center">Original second project</h2>
 <p></p>
 
+<h3>Examples:</h3>
+<img src="/Images/Artifact Two Images/Artifact Two Original/AuctionCSV.png" width="500px" height="400px">
+<img src="/Images/Artifact Two Images/Artifact Two Original/BSTImplementation.png" width="500px" height="400px">
+
 <h2 align = "center">Original third project</h2>
 <p></p>
+
+<h3>Examples:</h3>
+<img src="/Images/Artifact Three Images/Artifact Three Original/DataPrep_Original.png" width="500px" height="400px">
+<img src="/Images/Artifact Three Images/Artifact Three Original/DataViz_Original.png" width="500px" height="400px">
+
 
 <h1>Enhancements/Modifications</h1>
 
