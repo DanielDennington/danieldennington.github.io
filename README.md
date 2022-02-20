@@ -5,5 +5,5 @@
 ### Inside you'll find the following:
 - Original course projects from SNHU's CS program
 - Enhancements/Modifications I made to those projects
+- Code reviews for each project in video format covering the original projects, along with my enhancement plan
 - A written narrative explaining the design choices and technical aspects of each enhancement/modification
-- A code review in a video format covering the original projects, along with my enhancement plan
