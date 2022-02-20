@@ -1,6 +1,6 @@
 <h1 align ="center" margin-bottom = "12px">Hello and welcome to my ePortfolio!</h1>
 
-<h1 margin-bottom = "12px">First and foremost, I want to bring some acknowledgement to all of the other coursework I dedicated most of my time and energy towards these past three years to finally realizing my goal of graduating college</h1>
+<h1 margin-bottom = "12px">First and foremost, I want to bring some acknowledgement to all of the other coursework I dedicated most of my time and energy towards these past three years in order to finally realize my goal of graduating from college</h1>
 
 <h2>Learning How to Collaborate in a Team Environment:</h2>
 <p>In my CS-310 course, I learned how to utilize the popular version control system Git to collaborate in a team environment to implement various changes to a Jukebox application made in Java. In order to collaborate with my classmates, we used BitBucket’s online repositories to make pull request, code reviews, as well as running tests, and making the suggested changes made by my fellow classmates. We first started on smaller projects like working on a calculator together, but then we moved on adding to a online Jukebox application to showcase our favorite songs. This acted as a great way to get to know each other’s taste in music as well as share coding tips with each other. In CS – 250, I learned the different responsibilities of each team member of a project and the techniques used in the Agile methodology of software development lifecycle. I assumed almost all of the different roles throughout a single project that acted as a ‘vacation spot’ advertisement application, for a travel company made using Java. First, I acted as a SCRUM master and created the Team’s charter for the project to set expectations as well as establish timelines for meetings and general team collaboration. Then as a Product Owner, I used Excel to create various User Stories to better understand and define the scope of the project’s design. I also acted as a Developer for multiple weeks. I first added a few features following a guideline. I then received several expected ‘critiques’  back from the other fictional members and worked on implement their suggestions. I then made changes and finally packaged the application in a .jar file for portability purposes.</p>
@@ -54,7 +54,7 @@
 
 <h3>Example:</h3>
 
-<img src="/Images/Artifact One Images/Artifact One Enhanced/SpaceInv_pic.png" width="500px" height="400px">
+<p><a href="https://youtu.be/aqwXQuIMUYk">Quick Demonstration of Space Invaders!</a></p>
 
 <h2 align = "center" margin-bottom = "12px">My second enhanced project</h2>
   
