@@ -1,16 +1,11 @@
 <h1 align ="center" margin-bottom = "12px">Hello and welcome to my ePortfolio!</h1>
 
 <h1>Code Reviews</h1>
-<p>These videos are hosted on YouTube and can be accessed through the provided links:</p>
+<p>This video is hosted on YouTube and can be accessed through the provided link:</p>
 
-<h2 align = "center">First project code review</h2>
-<p><a href="">Link Here</a></p>
+<h2 align = "center">Project code review/enhancement walkthrough</h2>
+<p><a href="https://youtu.be/XwWzTvmWbVc">Link Here</a></p>
 
-<h2 align = "center">Second project code review</h2>
-<p><a href="">Link Here</a></p>
-
-<h2 align = "center">Third project code review</h2>
-<p><a href="">Link Here</a></p>
 
 <h1>Original Projects</h1>
 
