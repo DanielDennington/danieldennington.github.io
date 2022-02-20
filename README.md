@@ -6,4 +6,4 @@
 - Original course projects from SNHU's CS program
 - Enhancements/Modifications I made to those projects
 - Links to the code reviews for each project in video format covering the original projects, along with my enhancement plan
-- A written narrative explaining the design choices and technical aspects of each enhancement/modification
+- Written narratives explaining the design choices and technical aspects of each enhancement/modification
