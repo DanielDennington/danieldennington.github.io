@@ -55,7 +55,7 @@
 
 <h2 align = "center" margin-bottom = "12px">My third enhanced project</h2>
   
-<p>I wanted to explore a Data Science project using Python and Jupyter Notebooks. So, I went and found a CSV file online which consisted of real world data points concering the games played in the NBA from the 2004-2021 seaons. I then performed several data analytical techniques to visualize a few of the metrics into several graphs, as well as extracting several specific metrics for further evaluation. To finish it all off I then displayed these metrics onto the screen.</p>
+<p>I wanted to explore a Data Science project using Python and Jupyter Notebooks. So, I went and found a CSV file online which consisted of real world data points concering the games played in the NBA from the 2004-2021 seaons. I then performed several data analytical techniques to visualize a few of the data metrics into several graphs. I also extracted several specific metrics for further evaluation like the most points in a game or the most blocks.</p>
 
 <h3>Examples:</h3>
 <img src="/Images/Artifact Three Images/Artifact Three Enhanced/DataPrep.png" width="500px" height="400px">
