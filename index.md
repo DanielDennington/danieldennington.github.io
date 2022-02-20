@@ -4,11 +4,11 @@
 
 <h2>My first project:</h2>
 
-<p>I created a simple video game in Unreal Engine 4 using C++ and Unreal's Blueprint system. I wanted to create a project that utilizes environmental design techniques to hide surface tiling along with a noise brush to generate uneven and more realistic terrian. To further expand on the project, I added two separate C++ classes to represent both the NPCs of the game and the Player character. I exposed those character classes to Unreal's Blueprint system to allow for further editing of them using Unreals In-Engine Editor. However, since I only wanted to focus on utilizing different tools and not the gameplay mechanics, I opted to only include a Camera, and not any movement capabilites to the Player character.</p>
+<p>For my first artifact I wanted to create a simple game to better familiarize myself with both Python and PyGame. So I chose to recreate Space Invaders, a classic video game released in the late 80s. This is a rather simple rendition of the game, however it does feature most of major components of the game like the sprites, movement, a scoring system, and even audio.</p>
 
 <h3>Example:</h3>
 
-<img src="/Capstone_Pics/UE4_output.png" width="500px" height="375px">
+<img src="/Capstone_Pics/Space_invaders_screenshot.png" width="500px" height="375px">
 
 <h2>My second project:</h2>
   
